@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sudhir! 👋</h1>
+<h1 align="center">Hi, I'm Sudhir! 👋🏾</h1>
 
 <p align="center">
 🚀 Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast  
@@ -7,14 +7,14 @@
 ---
 
 ## 🌍 About Me  
-I'm a **full-stack solutions developer** and **cloud architect**, focused on building **scalable, secure, and AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** in:  
-- **🔗 Web & Application Development** – Full-stack systems with modern frameworks.  
-- **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.  
-- **🔒 Security & API Services** – Secure markup connectors & integrations.  
-- **☁️ Cloud & BaaS** – Scalable backend services tailored for South Africa.  
-- **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.  
+I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+- **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
+- **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
+- **🔒 Security & API Services** – Secure markup connectors & integrations.
+- **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
+- **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
-🚀 *10x Not 10%*  
+🚀 *10x Not 10%*
 
 ---
 
@@ -35,6 +35,7 @@ I'm a **full-stack solutions developer** and **cloud architect**, focused on bui
 
 ## 📌 Featured Projects  
 🔹 **[Kedro-Viz Modular Framework](https://github.com/kedro-org/kedro-viz)** – Enhancing Kedro workflows.  
+🔹 **[Mini-Omni](https://github.com/gpt-omni/mini-omni?tab=readme-ov-file#mini-omni)** – Lightweight AI assistant for local inference.  
 🔹 **OCR Transformer Services** – AI-driven document digitization models.  
 🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
@@ -59,7 +60,7 @@ I'm a **full-stack solutions developer** and **cloud architect**, focused on bui
 ## 📬 Get in Touch  
 📧 Email: [sudhir@saml.co.za](mailto:sudhir@saml.co.za)  
 🌍 Website: [saml.co.za](https://saml.co.za)  
-📞 Phone: [+2722084032](tel:+2722084032)  
+📞 Phone: [+27 22 084 032](tel:+2722084032)  
 💼 GitHub: [github.com/sudz](https://github.com/sudz)  
 
 ---
