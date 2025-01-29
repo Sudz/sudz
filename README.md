@@ -7,14 +7,14 @@
 ---
 
 ## 🌍 About Me  
-I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML/AI-driven applications**. My compound startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML/AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
 - **🔒 Security & API Services** – Secure markup connectors & integrations.
 - **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
 - **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
- 🚀 *10x Not 10%*
+🚀 *10x Not 10%*
 
 ---
 
@@ -39,8 +39,6 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 🔹 **[OCR Transformer Services](https://github.com/Sudz/LaTeX-OCR#pix2tex---latex-ocr)** – AI-driven document digitization models.  
 🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
-
-  
 
 ---
 
@@ -77,3 +75,4 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 
 ---
 
+### 
