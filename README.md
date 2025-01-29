@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Sudhir! 👋🏾</h1>
 
 <p align="center">
- Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast  
+🚀 Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast  
 </p>
 
 ---
 
 ## 🌍 About Me  
-I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+I'm a **full-stack solutions developer** and **cloud architect**, focused on building **scalable, secure, and AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
 - **🔒 Security & API Services** – Secure markup connectors & integrations.
 - **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
 - **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
-   *10x Not 10%*
+🚀 *10x Not 10%*
 
 ---
 
@@ -39,7 +39,8 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 🔹 **[OCR Transformer Services](https://github.com/Sudz/LaTeX-OCR#pix2tex---latex-ocr)** – AI-driven document digitization models.  
 🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
-  
+
+📍 More at [GitHub Repos](https://github.com/Sudz?tab=repositories)  
 
 ---
 
@@ -47,8 +48,9 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 🎓 **[MCSA: SQL 2016 BI Development](https://learn.microsoft.com/en-us/certifications/mcsa-sql-2016-bi-development/)**  
 🎓 **[Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)**  
 🎓 **[Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)**  
-🎓 **Mckinney Forward Program 2024**  
-🎓 **Red Bull Basement Top 10 2024 South Africa 🇿🇦**
+🎓 **[McKinsey Forward Program 2024](https://www.mckinsey.com/forward/overview)**  
+🎓 **[Red Bull Basement Top 10 2024 South Africa 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement-south-africa)**  
+🎓 **[Microsoft Founders Hub](https://foundershub.startups.microsoft.com/signup)**
 
 ---
 
@@ -63,9 +65,10 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 ## 📬 Get in Touch  
 📧 Email: [sudhir@saml.co.za](mailto:sudhir@saml.co.za)  
 🌍 Website: [saml.co.za](https://saml.co.za)  
-📞 Phone: [+27 22 084 032](tel:+2722084032)  
+📞 Telegram: [t.me/sudhirdpn](https://t.me/sudhirdpn)  
 💼 GitHub: [github.com/sudz](https://github.com/sudz)  
-💼 LinkedIn: [linkedin.com/in/sudhir](https://www.linkedin.com/in/sudhir)
+💼 LinkedIn: [linkedin.com/in/sudhir](https://www.linkedin.com/in/sudhir)  
+🌐 Google Developer Profile: [g.dev/sudz](https://g.dev/sudz)
 
 ---
 
