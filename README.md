@@ -7,7 +7,7 @@ Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast
 ---
 
 ## 🌍 About Me  
-I'm a ** solutions developer** and **cloud enthusiast**, focused on building **secure ML/AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+I'm a ** solutions developer** and **cloud enthusiast**. Focused on building **secure ML/AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
 - **🔒 Security & API Services** – Secure markup connectors & integrations.
