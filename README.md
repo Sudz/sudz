@@ -7,7 +7,7 @@ Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast
 ---
 
 ## 🌍 About Me  
-I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML/AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+I'm a ** agile solutions developer** and **cloud enthusiast**, focused on building **secure ML/AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
 - **🔒 Security & API Services** – Secure markup connectors & integrations.
@@ -71,7 +71,9 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 💬 Telegram: [t.me/sudhirdpn](https://t.me/sudhirdpn)  
 💼 GitHub: [github.com/sudz](https://github.com/sudz)  
 💼 LinkedIn: [linkedin.com/in/sudhir](https://www.linkedin.com/in/sudhir)  
-🌐 Google Developer Profile: [g.dev/sudz](https://g.dev/sudz)
+🌐 Google Developer Profile: [g.dev/sudz](https://g.dev/sudz)  
+🐦 X: [x.com/sudzdpn](https://x.com/sudzdpn)  
+🏢 Address: [Transwerke, Braamfontein, Johannesburg, 2017](https://g.co/kgs/CKQ5KiE)
 
 ---
 
