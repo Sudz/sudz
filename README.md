@@ -14,7 +14,7 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 - **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
 - **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
-
+🚀 *10x Not 10%*
 
 ---
 
@@ -40,6 +40,7 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
 
+📍 More at [GitHub Repos](https://github.com/Sudz?tab=repositories)  
 
 ---
 
@@ -49,7 +50,10 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)  
 🎓 [McKinsey Forward Program 2024](https://www.mckinsey.com/forward/overview)  
 🎓 [Red Bull Basement Top 10 2024 South Africa 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement-south-africa)  
-🎓 [Microsoft Founders Hub](https://foundershub.startups.microsoft.com/signup)
+🎓 [Microsoft Founders Hub](https://foundershub.startups.microsoft.com/signup)  
+🎓 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/25db62d6-eeed-4590-9dea-aeebaacb1177)  
+🎓 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)  
+🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
 
 ---
 
@@ -71,3 +75,4 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 
 ---
 
+### 🚀 Let’s Build the Future, Securely & Intelligently!
