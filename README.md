@@ -7,13 +7,14 @@
 ---
 
 ## 🌍 About Me  
-I'm a **solutions developer** and **cloud enthusiast**, focused on building **secure ML/AI-driven applications**. My compound startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML/AI-driven applications**. My compound startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
 - **🔒 Security & API Services** – Secure markup connectors & integrations.
 - **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
 - **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
+ 🚀 *10x Not 10%*
 
 ---
 
@@ -38,6 +39,7 @@ I'm a **solutions developer** and **cloud enthusiast**, focused on building **se
 🔹 **[OCR Transformer Services](https://github.com/Sudz/LaTeX-OCR#pix2tex---latex-ocr)** – AI-driven document digitization models.  
 🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
+
   
 
 ---
@@ -51,7 +53,9 @@ I'm a **solutions developer** and **cloud enthusiast**, focused on building **se
 🎓 [Microsoft Founders Hub](https://foundershub.startups.microsoft.com/signup)  
 🎓 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/25db62d6-eeed-4590-9dea-aeebaacb1177)  
 🎓 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)  
-🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
+🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)  
+🎓 [AWS DeepRacer](https://aws.amazon.com/deepracer/)  
+🎓 [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
 ---
 
@@ -73,4 +77,3 @@ I'm a **solutions developer** and **cloud enthusiast**, focused on building **se
 
 ---
 
-###  
