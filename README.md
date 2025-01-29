@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sudhir! 👋🏾</h1>
 
 <p align="center">
-🚀 Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast  
+Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast  
 </p>
 
 ---
@@ -14,7 +14,7 @@ I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on bu
 - **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
 - **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
-🚀 *10x Not 10%*
+ *10x Not 10%*
 
 ---
 
