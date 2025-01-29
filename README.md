@@ -7,14 +7,14 @@
 ---
 
 ## 🌍 About Me  
-I'm a **full-stack solutions developer** and **cloud architect**, focused on building **scalable, secure, and AI-driven applications**. My startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
+I'm a **full-stack solutions developer** and **cloud enthusiast**, focused on building **scalable, secure, and ML/AI-driven applications**. My compound startup, [saml.co.za](https://saml.co.za), delivers **cutting-edge solutions** tailored for South Africa in:
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
 - **🔒 Security & API Services** – Secure markup connectors & integrations.
 - **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
 - **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
 
-🚀 *10x Not 10%*
+
 
 ---
 
@@ -40,24 +40,23 @@ I'm a **full-stack solutions developer** and **cloud architect**, focused on bui
 🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
 
-📍 More at [GitHub Repos](https://github.com/Sudz?tab=repositories)  
 
 ---
 
 ## 🏆 Certifications  
-🎓 **[MCSA: SQL 2016 BI Development](https://learn.microsoft.com/en-us/certifications/mcsa-sql-2016-bi-development/)**  
-🎓 **[Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)**  
-🎓 **[Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)**  
-🎓 **[McKinsey Forward Program 2024](https://www.mckinsey.com/forward/overview)**  
-🎓 **[Red Bull Basement Top 10 2024 South Africa 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement-south-africa)**  
-🎓 **[Microsoft Founders Hub](https://foundershub.startups.microsoft.com/signup)**
+🎓 [MCSA: SQL 2016 BI Development](https://learn.microsoft.com/en-us/certifications/mcsa-sql-2016-bi-development/)  
+🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)  
+🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)  
+🎓 [McKinsey Forward Program 2024](https://www.mckinsey.com/forward/overview)  
+🎓 [Red Bull Basement Top 10 2024 South Africa 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement-south-africa)  
+🎓 [Microsoft Founders Hub](https://foundershub.startups.microsoft.com/signup)
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudz&show_icons=true&theme=radical" alt="Sudhir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudz&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515" alt="Sudhir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
 </p>
 
 ---
@@ -65,11 +64,10 @@ I'm a **full-stack solutions developer** and **cloud architect**, focused on bui
 ## 📬 Get in Touch  
 📧 Email: [sudhir@saml.co.za](mailto:sudhir@saml.co.za)  
 🌍 Website: [saml.co.za](https://saml.co.za)  
-📞 Telegram: [t.me/sudhirdpn](https://t.me/sudhirdpn)  
+💬 Telegram: [t.me/sudhirdpn](https://t.me/sudhirdpn)  
 💼 GitHub: [github.com/sudz](https://github.com/sudz)  
 💼 LinkedIn: [linkedin.com/in/sudhir](https://www.linkedin.com/in/sudhir)  
 🌐 Google Developer Profile: [g.dev/sudz](https://g.dev/sudz)
 
 ---
 
-### 🚀 Let’s Build the Future, Securely & Intelligently!
