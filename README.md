@@ -27,6 +27,8 @@ I'm a **full-stack solutions developer** and **cloud architect**, focused on bui
   <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
 </p>
 
 ---
@@ -38,6 +40,11 @@ I'm a **full-stack solutions developer** and **cloud architect**, focused on bui
 🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
 
 📍 More at [GitHub Repos](https://github.com/Sudz?tab=repositories)  
+
+---
+
+## 🏆 Certifications  
+🎓 **[MCSA: SQL 2016 BI Development](https://learn.microsoft.com/en-us/certifications/mcsa-sql-2016-bi-development/)**  
 
 ---
 
