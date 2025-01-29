@@ -1,61 +1,25 @@
-# Hi, I'm Sudhir (Sudz) 👋  
-🌍 Based in Johannesburg, South Africa  
+# Hi, I'm Sudhir! 👋  
+## 🚀 Solutions Developer | Maker | Startup Founder  
 
----
+I build scalable cloud solutions, secure applications, and full-stack services optimized for **South Africa**. My startup, [saml.co.za](https://saml.co.za), is focused on:  
+- **🔗 Web & Application Development** – Full-stack solutions with modular frameworks.  
+- **📊 Power BI & Data Visualization** – Dashboards & insights for decision-making.  
+- **🔒 Security & Integration** – Secure markup services, connectors & OCR transformers.  
+- **☁️ Cloud & BaaS** – Custom backend services tailored for South African businesses.  
 
-## 🚀 About Me  
-I'm a passionate **maintainer**, **solutions developer**, and **maker** dedicated to crafting solutions tailored for South Africa. My startup is focused on delivering **10x solutions**, not just incremental improvements—**10x Not 10%**.  
+### 🔧 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Kedro](https://img.shields.io/badge/-Kedro-004D40?logo=kedro&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)  
 
-My expertise lies in:  
-- **Full-Stack Web Development**: Building scalable and innovative web and application solutions.  
-- **Data Visualization**: Creating insightful dashboards using **Microsoft Power BI**.  
-- **Backend as a Service (BaaS)**: Developing bespoke cloud services for South African businesses.  
-- **Large Language Models (LLMs)**: Advancing AI with a focus on Southern Africa's unique needs.  
-- **Security and Transformation Tools**: Offering connectors and prebuilt artifacts for **LaTeX** and **OCR Transformers**.  
+### 📌 Featured Projects  
+- 🚀 **[Kedro-Viz Modular Framework](https://github.com/sudz/kedro-viz-modular-framework)** – Enhancing Kedro workflows.  
+- 🔍 **OCR Transformer Services** – Pre-built models for document digitization.  
+- 📡 **Security Markup Connectors** – Secure APIs for data protection.  
 
----
+### 📬 Connect with Me  
+📧 sudhir@saml.co.za | 🌍 [saml.co.za](https://saml.co.za) | 📞 +2722084032  
 
-## 💼 What I Do  
-I maintain [**saml.co.za**](https://saml.co.za), a compound startup delivering **South African solutions** across:  
-- **Web and Application Development**  
-- **Power BI Services**  
-- **Security Markup Tools**  
-- Prebuilt **LaTeX** or **OCR Transformer Artifacts**  
-- AI-driven solutions designed for the **Southern African market**  
-
----
-
-## 🔧 Tools and Technologies  
-
-### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-
-### Frameworks  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-
-### Tools  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![Kedro](https://img.shields.io/badge/Kedro-42A5F5?style=flat&logo=kedro&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-
----
-
-## 📈 GitHub Stats  
-
-![Sudz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudz&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudz&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 How to Reach Me  
-
-- **Email:** [sudhir@saml.co.za](mailto:sudhir@saml.co.za)  
-- **Website:** [saml.co.za](https://saml.co.za)  
-- **GitHub:** [github.com/sudz](https://github.com/sudz)  
-
----
-
-### 🚀 Building 10x solutions for South Africa, not just 10%.
+🚀 *10x Not 10%*
