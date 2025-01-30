@@ -7,7 +7,7 @@ Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast
 ---
 
 ## 🌍 About Me  
-I'm a passionate **maintainer**, **solutions developer**, and **maker** dedicated to crafting solutions tailored for South Africa. My startup is focused on delivering internet of priduction ready pipelines.
+I'm a passionate **maintainer**, **solutions developer**, and **maker** dedicated to crafting solutions tailored for South Africa. My startup is focused on delivering internet of production ready pipelines.
 
 - **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
 - **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
