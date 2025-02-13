@@ -30,37 +30,32 @@
 
 <br>
 
-## 🎯 Mission
-
-**We're not just reducing technical debt – we're eliminating it.** Based at TMG Makerspace Africa, we're revolutionizing how data science experiments transform into production systems. Our solutions are battle-tested in the challenging South African context, making them resilient enough for any environment.
-
-<br>
-
-## 💥 What Sets Us Apart
-
-- **Zero-Compromise ML Ops**: Production-ready from day one
-- **Ruthless Efficiency**: Cut experiment-to-production time by 60%
-- **Built for Africa**: Designed for our unique infrastructure challenges
-- **Scale-Ready**: From prototype to continental deployment
+<h2 align="center">🎯 Mission</h2>
+<p align="center"><strong>We're not just reducing technical debt – we're eliminating it.</strong> Based at TMG Makerspace Africa, we're revolutionizing how data science experiments transform into production systems. Our solutions are battle-tested in the challenging South African context, making them resilient enough for any environment.</p>
 
 <br>
 
-## 🛠️ Game-Changing Solutions
+<h2 align="center">💥 What Sets Us Apart</h2>
+<p>⚡ <strong>Zero-Compromise ML Ops</strong>: Production-ready from day one</p>
+<p>⚡ <strong>Ruthless Efficiency</strong>: Cut experiment-to-production time by 60%</p>
+<p>⚡ <strong>Built for Africa</strong>: Designed for our unique infrastructure challenges</p>
+<p>⚡ <strong>Scale-Ready</strong>: From prototype to continental deployment</p>
 
-- **Experiment Management**: Version control that actually works for data science
-- **Quality Enforcement**: Automated guardrails for technical excellence
-- **Self-Healing Pipelines**: Adaptive infrastructure that grows with you
-- **Resource Optimization**: Maximum impact, minimum waste
-- **Production-Grade ML**: Deploy with absolute confidence
+<br>
 
+<h2 align="center">🛠️ Game-Changing Solutions</h2>
+<p>🔧 <strong>Experiment Management</strong>: Version control that actually works for data science</p>
+<p>🔧 <strong>Quality Enforcement</strong>: Automated guardrails for technical excellence</p>
+<p>🔧 <strong>Self-Healing Pipelines</strong>: Adaptive infrastructure that grows with you</p>
+<p>🔧 <strong>Resource Optimization</strong>: Maximum impact, minimum waste</p>
+<p>🔧 <strong>Production-Grade ML</strong>: Deploy with absolute confidence</p>
 <div align="center">
   <em>Building Africa's AI Future</em>
 </div>
 
 <br>
 
-## ⚡ Power Tools
-
+<h2 align="center">⚡ Power Tools</h2>
 <div align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://kedro.readthedocs.io/"><img src="https://img.shields.io/badge/-Kedro-004D40?style=for-the-badge&logo=kedro&logoColor=white" /></a>
@@ -83,54 +78,76 @@
 
 <br>
 
-## 🚀 Flagship Solutions
-
-| Solution | Description |
-|----------|-------------|
-| ⚡ **4o Experiment Manager** | The last ML experiment tracker you'll ever need |
-| 🛡️ **Technical Debt Shield** | Stop technical debt before it starts |
-| 🔥 **Production Pipeline Builder** | From notebook to production in minutes, not months |
-| 📊 **Analytics Command Center** | Total visibility into your ML operations |
-| ⚡ **Resource Optimizer** | Maximum performance, minimum spend |
-| 🧩 **Project IDX** | Integrated development experience for seamless collaboration and deployment |
-| 🖼️ **pix2tex** | Using a ViT to convert images of equations into LaTeX code |
-
-<br>
-
-## 🌍 Our Impact Zone
-
-- 🏢 **Home Base**: TMG Makerspace Africa - Where Innovation Lives
-- 🌍 **Territory**: Leading South Africa's AI Revolution
-- 🎯 **Target**: Making Johannesburg the AI Hub of Africa
-- 💡 **Innovation HQ**: Transwerke, Braamfontein - The Heart of Tech
-
-<br>
-
-## 🏆 Victories & Validation
-
-<details>
-<summary>Click to see what excellence looks like</summary>
-
-<br>
-
-- 🎓 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
-- 🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
-- 🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-- 🏆 [Red Bull Basement National Finalist 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement)
-- ⚡ [Microsoft Founders Hub - Level 3](https://www.microsoft.com/startups/founders-hub)
-- 🎓 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-- 🎓 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
-- 🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
-- 🚗 [AWS DeepRacer Championship Participant](https://aws.amazon.com/deepracer/)
-- ☁️ [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- 🎓 [Microsoft Certified Solutions Developer (MSCD): SQL Server 2016](https://www.microsoft.com/en-us/learning/mcsd-sql-2016-certification.aspx)
-
-</details>
+<h2 align="center">🚀 Flagship Solutions</h2>
+<table align="center">
+  <tr>
+    <th>Solution</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>⚡ <strong>4o Experiment Manager</strong></td>
+    <td>The last ML experiment tracker you'll ever need</td>
+  </tr>
+  <tr>
+    <td>🛡️ <strong>Technical Debt Shield</strong></td>
+    <td>Stop technical debt before it starts</td>
+  </tr>
+  <tr>
+    <td>🔥 <strong>Production Pipeline Builder</strong></td>
+    <td>From notebook to production in minutes, not months</td>
+  </tr>
+  <tr>
+    <td>📊 <strong>Analytics Command Center</strong></td>
+    <td>Total visibility into your ML operations</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Resource Optimizer</strong></td>
+    <td>Maximum performance, minimum spend</td>
+  </tr>
+  <tr>
+    <td>🧩 <strong>Project IDX</strong></td>
+    <td>Integrated development experience for seamless collaboration and deployment</td>
+  </tr>
+  <tr>
+    <td>🖼️ <strong>pix2tex</strong></td>
+    <td>Using a ViT to convert images of equations into LaTeX code</td>
+  </tr>
+</table>
 
 <br>
 
-## 💻 Programming Languages
+<h2 align="center">🌍 Our Impact Zone</h2>
+<p>🏢 <strong>Home Base</strong>: TMG Makerspace Africa - Where Innovation Lives</p>
+<p>🌍 <strong>Territory</strong>: Leading South Africa's AI Revolution</p>
+<p>🎯 <strong>Target</strong>: Making Johannesburg the AI Hub of Africa</p>
+<p>💡 <strong>Innovation HQ</strong>: Transwerke, Braamfontein - The Heart of Tech</p>
 
+<br>
+
+<h2 align="center">🏆 Victories & Validation</h2>
+<div align="center">
+  <details>
+    <summary>Click to see what excellence looks like</summary>
+    <br>
+    <ul>
+      <li>🎓 <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/">Microsoft Azure AI Engineer Associate</a></li>
+      <li>🎓 <a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/">Microsoft Certified: Azure Solutions Architect Expert</a></li>
+      <li>🎓 <a href="https://www.isc2.org/Certifications/CISSP">Certified Information Systems Security Professional (CISSP)</a></li>
+      <li>🏆 <a href="https://www.redbull.com/za-en/events/red-bull-basement">Red Bull Basement National Finalist 🇿🇦</a></li>
+      <li>⚡ <a href="https://www.microsoft.com/startups/founders-hub">Microsoft Founders Hub - Level 3</a></li>
+      <li>🎓 <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">Microsoft Certified: Azure Fundamentals</a></li>
+      <li>🎓 <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/">Microsoft Certified: Azure AI Fundamentals</a></li>
+      <li>🎓 <a href="https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/">Microsoft Certified: Power Platform Fundamentals</a></li>
+      <li>🚗 <a href="https://aws.amazon.com/deepracer/">AWS DeepRacer Championship Participant</a></li>
+      <li>☁️ <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">AWS Cloud Practitioner</a></li>
+      <li>🎓 <a href="https://www.microsoft.com/en-us/learning/mcsd-sql-2016-certification.aspx">Microsoft Certified Solutions Developer (MSCD): SQL Server 2016</a></li>
+    </ul>
+  </details>
+</div>
+
+<br>
+
+<h2 align="center">💻 Programming Languages</h2>
 <div align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -143,16 +160,14 @@
 
 <br>
 
-## 📊 GitHub Stats
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 <br>
 
-## 🤝 Join the Revolution
-
+<h2 align="center">🤝 Join the Revolution</h2>
 <div align="center">
   <a href="mailto:sudzdpn@outlook.com">
     <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
