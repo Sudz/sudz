@@ -12,6 +12,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://example.com/your-photo.jpg" alt="Sudhir's Photo" style="width: 200px; height: auto; border-radius: 50%;"/>
+</div>
+
 <br>
 
 ## 🎯 Mission
@@ -46,18 +50,20 @@
 ## ⚡ Power Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kedro-004D40?style=for-the-badge&logo=kedro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://kedro.readthedocs.io/"><img src="https://img.shields.io/badge/-Kedro-004D40?style=for-the-badge&logo=kedro&logoColor=white" /></a>
+  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
   <br>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"><img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/-Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
+  <a href="https://www.openai.com/"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 </div>
 
 <br>
@@ -71,6 +77,7 @@
 | 🔥 **Production Pipeline Builder** | From notebook to production in minutes, not months |
 | 📊 **Analytics Command Center** | Total visibility into your ML operations |
 | ⚡ **Resource Optimizer** | Maximum performance, minimum spend |
+| 🧩 **Project IDX** | Integrated development experience for seamless collaboration and deployment |
 
 <br>
 
@@ -109,12 +116,13 @@
 ## 💻 Programming Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 </div>
 
 <br>
@@ -130,7 +138,7 @@
 ## 🤝 Join the Revolution
 
 <div align="center">
-  <a href="mailto:sudhir@saml.co.za">
+  <a href="mailto:sudzdpn@outlook.com">
     <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://saml.co.za">
