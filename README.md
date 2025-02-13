@@ -93,6 +93,7 @@
 | 📊 **Analytics Command Center** | Total visibility into your ML operations |
 | ⚡ **Resource Optimizer** | Maximum performance, minimum spend |
 | 🧩 **Project IDX** | Integrated development experience for seamless collaboration and deployment |
+| 🖼️ **pix2tex** | Using a ViT to convert images of equations into LaTeX code |
 
 <br>
 
