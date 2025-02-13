@@ -118,6 +118,14 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+<br>
+
 ## 🤝 Join the Revolution
 
 <div align="center">
