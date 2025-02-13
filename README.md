@@ -55,6 +55,8 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 <br>
@@ -87,7 +89,6 @@
 
 <br>
 
-- 🥇 TMG Makerspace Africa's Premier ML Infrastructure Partner
 - 🎓 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
 - 🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 - 🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
@@ -98,16 +99,21 @@
 - 🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
 - 🚗 [AWS DeepRacer Championship Participant](https://aws.amazon.com/deepracer/)
 - ☁️ [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- 🎓 [Microsoft Certified Solutions Developer (MSCD): SQL Server 2016](https://www.microsoft.com/en-us/learning/mcsd-sql-2016-certification.aspx)
 
 </details>
 
 <br>
 
-## 📈 GitHub Stats
+## 💻 Programming Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <br>
@@ -121,7 +127,7 @@
   <a href="https://saml.co.za">
     <img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sudhir">
+  <a href="https://www.linkedin.com/in/sudhirdpn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/Partner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
