@@ -1,81 +1,136 @@
-<h1 align="center">Hi, I'm Sudhir! 👋🏾</h1>
+# Hi, I'm Sudhir! 👋🏾
 
-<p align="center">
-Solutions Developer | Maker | Startup Founder | Cloud & Security Enthusiast  
-</p>
+<div align="center">
+  <a href="https://saml.co.za">
+    <img src="https://img.shields.io/badge/ML_Production_Pioneer-333333?style=for-the-badge" alt="ML Production"/>
+  </a>
+  <a href="https://tmgmakerspace.africa">
+    <img src="https://img.shields.io/badge/Technical_Debt_Eliminator-FF4088?style=for-the-badge" alt="Technical Debt"/>
+  </a>
+  <a href="https://github.com/sudz">
+    <img src="https://img.shields.io/badge/Africa's_DS_Innovator-4D4D4D?style=for-the-badge" alt="DS Innovation"/>
+  </a>
+</div>
 
----
+<br>
 
-## 🌍 About Me  
-I'm a passionate **maintainer**, **solutions developer**, and **maker** dedicated to crafting solutions tailored for South Africa. My startup is focused on delivering internet of production ready pipelines. IoP TMG makerspace 
+## 🎯 Mission
 
-- **🔗 Web & Application Development** – Full-stack systems with modern frameworks.
-- **📊 Data & BI Solutions** – Power BI dashboards, visualizations & insights.
-- **🔒 Security & API Services** – Secure markup connectors & integrations.
-- **☁️ Cloud & BaaS** – Scalable backend services tailored for South African businesses.
-- **🤖 AI & Automation** – OCR transformers, LaTeX pipelines & AI-driven solutions.
+**We're not just reducing technical debt – we're eliminating it.** Based at TMG Makerspace Africa, we're revolutionizing how data science experiments transform into production systems. Our solutions are battle-tested in the challenging South African context, making them resilient enough for any environment.
 
- *10x Not 10%* inpired by the team at x abc.xyz
+<br>
 
----
+## 💥 What Sets Us Apart
 
-## ⚙️ Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kedro-004D40?logo=kedro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-</p>
+- **Zero-Compromise ML Ops**: Production-ready from day one
+- **Ruthless Efficiency**: Cut experiment-to-production time by 60%
+- **Built for Africa**: Designed for our unique infrastructure challenges
+- **Scale-Ready**: From prototype to continental deployment
 
----
+<br>
 
-## 📌 Featured Projects  
-🔹 **[Kedro-Viz Modular Framework](https://github.com/kedro-org/kedro-viz)** – Enhancing Kedro workflows.  
-🔹 **[Mini-Omni](https://github.com/gpt-omni/mini-omni?tab=readme-ov-file#mini-omni)** – Lightweight AI assistant for local inference.  
-🔹 **[OCR Transformer Services](https://github.com/Sudz/LaTeX-OCR#pix2tex---latex-ocr)** – AI-driven document digitization models.  
-🔹 **Security Markup Connectors** – Secure APIs & authentication frameworks.  
-🔹 **Cloud & BaaS for South Africa** – Scalable backend services for local businesses.  
+## 🛠️ Game-Changing Solutions
 
----
+- **Experiment Management**: Version control that actually works for data science
+- **Quality Enforcement**: Automated guardrails for technical excellence
+- **Self-Healing Pipelines**: Adaptive infrastructure that grows with you
+- **Resource Optimization**: Maximum impact, minimum waste
+- **Production-Grade ML**: Deploy with absolute confidence
 
-## 🏆 Certifications  
-🎓 [MCSA: SQL 2016 BI Development](https://learn.microsoft.com/en-us/certifications/mcsa-sql-2016-bi-development/)  
-🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)  
-🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)  
-🎓 [McKinsey Forward Program 2024, MENA](https://www.mckinsey.com/forward/overview)  
-🎓 [Red Bull Basement 2024 National Finalist🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement-south-africa)  
-🎓 [Microsoft Founders Hub Level 3 ](https://foundershub.startups.microsoft.com/signup)  
-🎓 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/25db62d6-eeed-4590-9dea-aeebaacb1177)  
-🎓 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)  
-🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)  
-🎓 [AWS DeepRacer](https://aws.amazon.com/deepracer/)  
-🎓 [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+<div align="center">
+  <em>Building Africa's AI Future</em>
+</div>
 
----
+<br>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudz&show_icons=true&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515" alt="Sudhir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
-</p>
+## ⚡ Power Tools
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kedro-004D40?style=for-the-badge&logo=kedro&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+</div>
 
-## 📬 Get in Touch  
-📧 Email: [sudhir@saml.co.za](mailto:sudhir@saml.co.za)  
-🌍 Website: [saml.co.za](https://saml.co.za)  
-💬 Telegram: [t.me/sudhirdpn](https://t.me/sudhirdpn)  
-💼 GitHub: [github.com/sudz](https://github.com/sudz)  
-💼 LinkedIn: [linkedin.com/in/sudhir](https://www.linkedin.com/in/sudhir)  
-🌐 Google Developer Profile: [g.dev/sudz](https://g.dev/sudz)  
-🐦 X: [x.com/sudzdpn](https://x.com/sudzdpn)  
-🏢 Address: [Transwerke, Braamfontein, Johannesburg, 2017](https://g.co/kgs/CKQ5KiE)
+<br>
 
----
+## 🚀 Flagship Solutions
 
-### 
+| Solution | Description |
+|----------|-------------|
+| ⚡ **4o Experiment Manager** | The last ML experiment tracker you'll ever need |
+| 🛡️ **Technical Debt Shield** | Stop technical debt before it starts |
+| 🔥 **Production Pipeline Builder** | From notebook to production in minutes, not months |
+| 📊 **Analytics Command Center** | Total visibility into your ML operations |
+| ⚡ **Resource Optimizer** | Maximum performance, minimum spend |
+
+<br>
+
+## 🌍 Our Impact Zone
+
+- 🏢 **Home Base**: TMG Makerspace Africa - Where Innovation Lives
+- 🌍 **Territory**: Leading South Africa's AI Revolution
+- 🎯 **Target**: Making Johannesburg the AI Hub of Africa
+- 💡 **Innovation HQ**: Transwerke, Braamfontein - The Heart of Tech
+
+<br>
+
+## 🏆 Victories & Validation
+
+<details>
+<summary>Click to see what excellence looks like</summary>
+
+<br>
+
+- 🥇 TMG Makerspace Africa's Premier ML Infrastructure Partner
+- 🎓 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
+- 🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+- 🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+- 🏆 [Red Bull Basement National Finalist 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement)
+- ⚡ [Microsoft Founders Hub - Level 3](https://www.microsoft.com/startups/founders-hub)
+- 🎓 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- 🎓 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
+- 🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
+- 🚗 [AWS DeepRacer Championship Participant](https://aws.amazon.com/deepracer/)
+- ☁️ [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+</details>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<br>
+
+## 🤝 Join the Revolution
+
+<div align="center">
+  <a href="mailto:sudhir@saml.co.za">
+    <img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://saml.co.za">
+    <img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sudhir">
+    <img src="https://img.shields.io/badge/Partner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  🏢 <a href="https://g.co/kgs/CKQ5KiE">Transwerke, Braamfontein, Johannesburg, 2017</a>
+  <br>
+  🚀 Innovation Hub: <a href="https://tmgmakerspace.africa">tmgmakerspace.africa</a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Sudz&style=flat-square&color=blue" alt="Profile views"/>
+</div>
