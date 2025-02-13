@@ -49,13 +49,14 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kedro-004D40?style=for-the-badge&logo=kedro&logoColor=white" />
   <img src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
@@ -147,4 +148,11 @@
   🚀 Innovation Hub: <a href="https://tmgmakerspace.africa">tmgmakerspace.africa</a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Sudz&style=flat-square&color=blue" alt="Profile views"/>
+  <br><br>
+  <a href="https://x.com/sudzdpn">
+    <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://g.dev/sudz">
+    <img src="https://img.shields.io/badge/Develop-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
 </div>
