@@ -1,6 +1,9 @@
 # Hi, I'm Sudhir! 👋🏾
 
 <div align="center">
+  <a href="mailto:sudzdpn@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://saml.co.za">
     <img src="https://img.shields.io/badge/ML_Production_Pioneer-333333?style=for-the-badge" alt="ML Production"/>
   </a>
@@ -13,7 +16,16 @@
 </div>
 
 <div align="center">
-  <img src="https://example.com/your-photo.jpg" alt="Sudhir's Photo" style="width: 200px; height: auto; border-radius: 50%;"/>
+  <a href="https://github.com/gpt-omni/mini-omni">
+    <img src="https://img.shields.io/badge/omni-000000?style=for-the-badge&logo=github&logoColor=white" alt="Omni Project"/>
+  </a>
+</div>
+
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="https://example.com/path-to-your-demo-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <br>
@@ -58,12 +70,15 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"><img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+  <a href="https://huggingface.co/sudzdpn"><img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
   <a href="https://www.twitch.tv/"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
   <a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/-Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
   <a href="https://www.openai.com/"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://julius.ai/?via=sudhir"><img src="https://img.shields.io/badge/-Julius.AI-000000?style=for-the-badge&logo=ai&logoColor=white" /></a>
 </div>
 
 <br>
@@ -147,6 +162,9 @@
   <a href="https://www.linkedin.com/in/sudhirdpn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/Partner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://x.com/sudzdpn">
+    <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
@@ -157,9 +175,6 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Sudz&style=flat-square&color=blue" alt="Profile views"/>
   <br><br>
-  <a href="https://x.com/sudzdpn">
-    <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="https://g.dev/sudz">
     <img src="https://img.shields.io/badge/Develop-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
