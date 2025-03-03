@@ -1,4 +1,26 @@
-# Hi, I'm Sudhir! 👋🏾
+<!-- LANGUAGE SWITCHER -->
+<div align="right">
+  <a href="#english" aria-label="English"><img src="https://img.shields.io/badge/EN-0077B5" height="20"></a>
+  <a href="README.zu.md" aria-label="isiZulu"><img src="https://img.shields.io/badge/ZU-FFD100" height="20"></a>
+  <a href="README.xh.md" aria-label="isiXhosa"><img src="https://img.shields.io/badge/XH-009640" height="20"></a>
+</div>
+
+# 🌐 Internet of Production-Ready Services
+
+**Building Africa's AI Infrastructure** at [TMG Makerspace](https://tmgmakerspace.africa)  
+[![SLA](https://img.shields.io/badge/uptime-99.99%25-brightgreen)](https://status.tmgmakerspace.africa)
+[![Kedro Demo](https://img.shields.io/badge/Live_Kedro_Demo-00A98F?logo=kedro)](https://demo.kedro.org)
+[![Omni Repo](https://img.shields.io/badge/Omni_Code-181717?logo=github)](https://github.com/gpt-omni/mini-omni)
+
+```mermaid
+graph TD
+  A[Edge Devices] --> B{{Service Mesh}}
+  B --> C[ML Orchestrator]
+  C --> D[[Production Systems]]
+  D --> E[[Kedro Demo]]
+  D --> F[[Omni Project]]
+  D --> G[[Healthcare Demo]]
+```
 
 <div align="center">
   <a href="mailto:sudzdpn@outlook.com">
