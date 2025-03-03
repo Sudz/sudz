@@ -16,27 +16,58 @@
   </a>
 </div>
 
-## 🛠️ Core Stack
+## 👋🏾 Hi, I'm Sudhir!
 
-| **Category**       | **Technologies**                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
-| **ML Operations**   | Kedro • MLflow • Kubeflow • TensorFlow Extended                                |
-| **Cloud Native**    | AWS IoT Greengrass • Azure Arc • Google Anthos                                 |
-| **Data Fabric**     | Delta Lake • Apache Iceberg • AWS Glue                                        |
-| **Security**        | HashiCorp Vault • AWS IAM • Azure Sentinel                                    |
-
-## 🚀 Live Demos
+Welcome to my GitHub! I'm passionate about transforming data science experiments into production-ready solutions, particularly in the challenging and diverse context of Africa. At TMG Makerspace Africa, I build resilient AI infrastructures designed for real-world implementation.
 
 <div align="center">
-  <a href="https://github.com/gpt-omni/mini-omni">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gpt-omni&repo=mini-omni&theme=merko&border_color=7F3FBF" width="400">
+  <a href="mailto:sudzdpn@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://demo.kedro.org">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kedro-org&repo=kedro&theme=merko&border_color=00A98F" width="400">
+  <a href="https://saml.co.za">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sudhirdpn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/sudzdpn">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
-## 📈 Performance Metrics
+## 🎯 Mission
+
+**Eliminating technical debt, not just reducing it.** Based at TMG Makerspace Africa, we're revolutionizing how data science experiments transform into production systems. Our solutions are battle-tested in South Africa's challenging context, ensuring resilience in any environment worldwide.
+
+## 💥 What Sets Us Apart
+
+- ⚡ **Zero-Compromise MLOps**: Production-ready from day one
+- ⚡ **Ruthless Efficiency**: 60% faster experiment-to-production time
+- ⚡ **Built for Africa**: Engineered for our unique infrastructure challenges
+- ⚡ **Scale-Ready**: Seamless scaling from prototype to continental deployment
+
+## 🚀 Flagship Solutions
+
+| Solution | Description |
+|----------|-------------|
+| ⚡ **4o Experiment Manager** | The definitive ML experiment tracker for enterprise deployment |
+| 🛡️ **Technical Debt Shield** | Proactive technical debt prevention system |
+| 🔥 **Production Pipeline Builder** | Transform notebooks to production in minutes, not months |
+| 📊 **Analytics Command Center** | Complete visibility across ML operations |
+| ⚡ **Resource Optimizer** | Maximize performance while minimizing resource usage |
+| 🧩 **Project IDX** | Integrated development experience for seamless collaboration |
+| 🖼️ **pix2tex** | Vision Transformer converting equation images to LaTeX code |
+
+## 🛠️ Core Technology Stack
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **MLOps** | Kedro • MLflow • Kubeflow • TensorFlow Extended |
+| **Cloud Native** | AWS IoT Greengrass • Azure Arc • Google Anthos |
+| **Data Fabric** | Delta Lake • Apache Iceberg • AWS Glue |
+| **Security** | HashiCorp Vault • AWS IAM • Azure Sentinel |
+
+## 📈 Service Distribution
 
 ```mermaid
 pie showData
@@ -46,49 +77,14 @@ pie showData
     "Data Ingestion" : 25
 ```
 
-## Hi, I'm Sudhir! 👋🏾
+## 🌍 Impact Areas
 
-Welcome to my GitHub profile! I'm passionate about transforming data science experiments into production-ready solutions, particularly in the challenging and diverse context of Africa. As part of TMG Makerspace Africa, I'm committed to building resilient and innovative AI infrastructures. 
+- 🏢 **Database Management Systems**: Enterprise-grade DBMS with POPIA compliance
+- 🌍 **MySQL Services**: Optimized MySQL solutions for African businesses
+- 🎯 **PostgreSQL Services**: Advanced PostgreSQL implementations with high availability
+- 🤖 **AI Integration**: Custom AI solutions for unique African challenges
 
-<div align="center">
-  <a href="mailto:sudzdpn@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://saml.co.za">
-    <img src="https://img.shields.io/badge/ML_Production_Pioneer-333333?style=for-the-badge" alt="ML Production"/>
-  </a>
-  <a href="https://tmgmakerspace.africa">
-    <img src="https://img.shields.io/badge/Technical_Debt_Eliminator-FF4088?style=for-the-badge" alt="Technical Debt"/>
-  </a>
-  <a href="https://github.com/sudz">
-    <img src="https://img.shields.io/badge/Africa's_DS_Innovator-4D4D4D?style=for-the-badge" alt="DS Innovation"/>
-  </a>
-</div>
-
-## 🎯 Mission
-
-**We're not just reducing technical debt – we're eliminating it.** Based at TMG Makerspace Africa, we're revolutionizing how data science experiments transform into production systems. Our solutions are battle-tested in the challenging South African context, making them resilient enough for any environment.
-
-## 💥 What Sets Us Apart
-
-- ⚡ **Zero-Compromise ML Ops**: Production-ready from day one
-- ⚡ **Ruthless Efficiency**: Cut experiment-to-production time by 60%
-- ⚡ **Built for Africa**: Designed for our unique infrastructure challenges
-- ⚡ **Scale-Ready**: From prototype to continental deployment
-
-## 🛠️ Game-Changing Solutions
-
-- 🔧 **Experiment Management**: Version control that actually works for data science
-- 🔧 **Quality Enforcement**: Automated guardrails for technical excellence
-- 🔧 **Self-Healing Pipelines**: Adaptive infrastructure that grows with you
-- 🔧 **Resource Optimization**: Maximum impact, minimum waste
-- 🔧 **Production-Grade ML**: Deploy with absolute confidence
-
-<div align="center">
-  <em>Building Africa's AI Future</em>
-</div>
-
-## ⚡ Power Tools
+## 🛠️ Technology Expertise
 
 <div align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -105,34 +101,23 @@ Welcome to my GitHub profile! I'm passionate about transforming data science exp
   <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
   <a href="https://www.openai.com/"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <br>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-  <a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/-Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
-  <a href="https://julius.ai/?via=sudhir"><img src="https://img.shields.io/badge/-Julius.AI-000000?style=for-the-badge&logo=ai&logoColor=white" /></a>
 </div>
 
-## 🚀 Flagship Solutions
+## 🚀 Live Demos
 
-| Solution | Description |
-|----------|-------------|
-| ⚡ **4o Experiment Manager** | The last ML experiment tracker you'll ever need |
-| 🛡️ **Technical Debt Shield** | Stop technical debt before it starts |
-| 🔥 **Production Pipeline Builder** | From notebook to production in minutes, not months |
-| 📊 **Analytics Command Center** | Total visibility into your ML operations |
-| ⚡ **Resource Optimizer** | Maximum performance, minimum spend |
-| 🧩 **Project IDX** | Integrated development experience for seamless collaboration and deployment |
-| 🖼️ **pix2tex** | Using a ViT to convert images of equations into LaTeX code |
+<div align="center">
+  <a href="https://github.com/gpt-omni/mini-omni">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gpt-omni&repo=mini-omni&theme=merko&border_color=7F3FBF" width="400">
+  </a>
+  <a href="https://demo.kedro.org">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kedro-org&repo=kedro&theme=merko&border_color=00A98F" width="400">
+  </a>
+</div>
 
-## 🌍 Our Impact Zone
-
-- 🏢 **Database Management Systems (DBMS)**: Comprehensive database management services for optimal performance, security, and POPIA compliance
-- 🌍 **MySQL Services**: Reliable MySQL solutions tailored for South African businesses
-- 🎯 **PostgreSQL Services**: Advanced PostgreSQL solutions for businesses
-
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 <details>
-  <summary>Click to see what excellence looks like</summary>
+  <summary><strong>View Certifications & Achievements</strong></summary>
   
   - 🎓 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
   - 🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
@@ -144,43 +129,13 @@ Welcome to my GitHub profile! I'm passionate about transforming data science exp
   - 🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
   - 🚗 [AWS DeepRacer Championship Participant](https://aws.amazon.com/deepracer/)
   - ☁️ [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-  - 🎓 [Microsoft Certified Solutions Developer (MSCD): SQL Server 2016](https://www.microsoft.com/en-us/learning/mcsd-sql-2016-certification.aspx)
+  - 🎓 [Microsoft Certified Solutions Developer (MCSD): SQL Server 2016](https://www.microsoft.com/en-us/learning/mcsd-sql-2016-certification.aspx)
 </details>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
-  <br>
-  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:sudzdpn@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://saml.co.za">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sudhirdpn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/sudzdpn">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </div>
 
 <div align="center">
@@ -194,4 +149,8 @@ Welcome to my GitHub profile! I'm passionate about transforming data science exp
   <a href="https://g.dev/sudz">
     <img src="https://img.shields.io/badge/Google_Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
+</div>
+
+<div align="center">
+  <em>Building Africa's AI Future</em>
 </div>
