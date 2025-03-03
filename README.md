@@ -1,13 +1,6 @@
-<!-- LANGUAGE SWITCHER -->
-<div align="right">
-  <a href="#english" aria-label="English"><img src="https://img.shields.io/badge/EN-0077B5" height="20"></a>
-  <a href="README.zu.md" aria-label="isiZulu"><img src="https://img.shields.io/badge/ZU-FFD100" height="20"></a>
-  <a href="README.xh.md" aria-label="isiXhosa"><img src="https://img.shields.io/badge/XH-009640" height="20"></a>
-</div>
+# 🌐 Transforming Data Science into Real-World Impact
 
-# 🌐 Internet of Production-Ready Services
-
-**Building Africa's AI Infrastructure** at [TMG Makerspace](https://tmgmakerspace.africa)  
+**Empowering Africa's AI Evolution** at [TMG Makerspace](https://tmgmakerspace.africa)  
 [![SLA](https://img.shields.io/badge/uptime-99.99%25-brightgreen)](https://status.tmgmakerspace.africa)
 [![Kedro Demo](https://img.shields.io/badge/Live_Kedro_Demo-00A98F?logo=kedro)](https://demo.kedro.org)
 [![Omni Repo](https://img.shields.io/badge/Omni_Code-181717?logo=github)](https://github.com/gpt-omni/mini-omni)
@@ -19,8 +12,11 @@ graph TD
   C --> D[[Production Systems]]
   D --> E[[Kedro Demo]]
   D --> F[[Omni Project]]
-  D --> G[[Healthcare Demo]]
 ```
+
+# Hi, I'm Sudhir! 👋🏾
+
+Welcome to my GitHub profile! I am passionate about transforming data science experiments into production-ready solutions, particularly in the challenging and diverse context of Africa. As a part of TMG Makerspace Africa, I am committed to building resilient and innovative AI infrastructures. 
 
 <div align="center">
   <a href="mailto:sudzdpn@outlook.com">
@@ -139,10 +135,9 @@ graph TD
 <br>
 
 <h2 align="center">🌍 Our Impact Zone</h2>
-<p>🏢 <strong>Home Base</strong>: TMG Makerspace Africa - Where Innovation Lives</p>
-<p>🌍 <strong>Territory</strong>: Leading South Africa's AI Revolution</p>
-<p>🎯 <strong>Target</strong>: Making Johannesburg the AI Hub of Africa</p>
-<p>💡 <strong>Innovation HQ</strong>: Transwerke, Braamfontein - The Heart of Tech</p>
+<p>🏢 <strong>Database Management Systems (DBMS)</strong>: Comprehensive database management services for optimal performance, security, and POPIA compliance.</p>
+<p>🌍 <strong>MySQL Services</strong>: Reliable MySQL solutions tailored for South African businesses.</p>
+<p>🎯 <strong>PostgreSQL Services</strong>: Advanced PostgreSQL solutions for businesses.</p>
 
 <br>
 
