@@ -14,6 +14,7 @@
   <a href="https://status.tmgmakerspace.africa">
     <img src="https://img.shields.io/badge/Service_Mesh-Operational-brightgreen?style=for-the-badge">
   </a>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge">
 </div>
 
 ## 👋🏾 Hi, I'm Sudhir!
@@ -24,8 +25,8 @@ Welcome to my GitHub! I'm passionate about transforming data science experiments
   <a href="mailto:sudzdpn@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://saml.co.za">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+  <a href="https://huggingface.co/sudzdpn">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sudhirdpn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
