@@ -68,11 +68,63 @@ Welcome to my GitHub! I'm passionate about transforming data science experiments
 ## 📈 Service Distribution
 
 ```mermaid
-pie showData
-    title Service Mesh Utilization
-    "AI Orchestration" : 42
-    "Edge Compute" : 33
-    "Data Ingestion" : 25
+flowchart TB
+    subgraph SAML["SAML: 10X NOT 10%"]
+        direction TB
+        
+        A([Enterprise SQL Solutions]):::enterprise --> B([Database Performance]):::performance
+        A --> C([Custom Implementation]):::custom
+        A --> D([Legacy Migration]):::legacy
+        
+        E([Data Infrastructure]):::infrastructure --> F([Scalable Architecture]):::scalable
+        E --> G([High Availability]):::availability
+        E --> H([Distributed Systems]):::distributed
+        
+        I([Security & Compliance]):::security --> J([Data Protection]):::protection
+        I --> K([Access Control]):::access
+        I --> L([Audit Systems]):::audit
+        
+        B & C & D & F & G & H & J & K & L --> M([10X Results]):::results
+    end
+    
+    subgraph Industries
+        N([Financial Services]):::industries
+        O([Healthcare]):::industries
+        P([Telecoms]):::industries
+        Q([Retail]):::industries
+        R([Government]):::industries
+    end
+    
+    M --> Industries
+    
+    subgraph Technologies
+        direction LR
+        S([PostgreSQL]):::tech & T([MySQL]):::tech & U([SQL Server]):::tech & V([Oracle]):::tech & W([MongoDB]):::tech
+        X([AWS]):::cloud & Y([Azure]):::cloud & Z([GCP]):::cloud
+        AA([Python]):::languages & AB([Java]):::languages & AC([Go]):::languages & AD([C#]):::languages
+        AE([Docker]):::devops & AF([Kubernetes]):::devops & AG([Terraform]):::devops
+    end
+    
+    M --> Technologies
+    
+    classDef enterprise fill:#007ACC,stroke:#333,stroke-width:2px,color:#fff
+    classDef performance fill:#28A745,stroke:#333,stroke-width:2px,color:#fff
+    classDef custom fill:#FFC107,stroke:#333,stroke-width:2px,color:#fff
+    classDef legacy fill:#DC3545,stroke:#333,stroke-width:2px,color:#fff
+    classDef infrastructure fill:#6610F2,stroke:#333,stroke-width:2px,color:#fff
+    classDef scalable fill:#17A2B8,stroke:#333,stroke-width:2px,color:#fff
+    classDef availability fill:#20C997,stroke:#333,stroke-width:2px,color:#fff
+    classDef distributed fill:#E83E8C,stroke:#333,stroke-width:2px,color:#fff
+    classDef security fill:#343A40,stroke:#333,stroke-width:2px,color:#fff
+    classDef protection fill:#6C757D,stroke:#333,stroke-width:2px,color:#fff
+    classDef access fill:#007BFF,stroke:#333,stroke-width:2px,color:#fff
+    classDef audit fill:#FFC107,stroke:#333,stroke-width:2px,color:#fff
+    classDef results fill:#FF5722,stroke:#333,stroke-width:3px,color:#fff
+    classDef industries fill:#F8F9FA,stroke:#333,stroke-width:2px,color:#000
+    classDef tech fill:#6F42C1,stroke:#333,stroke-width:2px,color:#fff
+    classDef cloud fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff
+    classDef languages fill:#009688,stroke:#333,stroke-width:2px,color:#fff
+    classDef devops fill:#795548,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 ## 🌍 Impact Areas
