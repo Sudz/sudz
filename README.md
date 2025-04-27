@@ -19,7 +19,7 @@
 
 ## 👋🏾 Hi, I'm Sudhir!
 
-Welcome to my GitHub! I'm passionate about transforming data science experiments into production-ready solutions, particularly in the challenging and diverse context of Africa. At TMG Makerspace Africa, I build resilient AI infrastructures designed for real-world implementation.
+Welcome to my GitHub! I'm passionate about transforming data science experiments into production-ready solutions. At TMG Makerspace Africa, I build resilient AI infrastructures designed for real-world implementation.
 
 <div align="center">
   <a href="mailto:sudzdpn@outlook.com">
