@@ -202,5 +202,5 @@ flowchart TB
 </div>
 
 <div align="center">
-  <em>Building Africa's AI Future</em>
+  <em></em>
 </div>
