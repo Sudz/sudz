@@ -1,206 +1,43 @@
-<h1 align="center">
-  🌍 Industrial-Grade AI Services
-  <br>
-  <sub>Powered by TMG Makerspace Africa</sub>
-</h1>
+# 👋🏾 Hi, I'm Sudhir (Sudz)
 
-<div align="center">
-  <a href="https://demo.kedro.org">
-    <img src="https://img.shields.io/badge/Kedro_Demo-00A98F?logo=kedro&style=for-the-badge">
-  </a>
-  <a href="https://github.com/gpt-omni/mini-omni">
-    <img src="https://img.shields.io/badge/Omni_Repo-181717?logo=github&style=for-the-badge">
-  </a>
-  <a href="https://status.tmgmakerspace.africa">
-    <img src="https://img.shields.io/badge/Service_Mesh-Operational-brightgreen?style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge">
-</div>
+**Johannesburg, South Africa • TMG Makerspace Africa**
 
-## 👋🏾 Hi, I'm Sudhir!
+🌍 Passionate about building resilient, production-grade AI & data science solutions for Africa and beyond.
 
-Welcome to my GitHub! I'm passionate about transforming data science experiments into production-ready solutions. At TMG Makerspace Africa, I build resilient AI infrastructures designed for real-world implementation.
+---
 
-<div align="center">
-  <a href="mailto:sudzdpn@outlook.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://huggingface.co/sudzdpn">
-    <img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
-  </a>
-  <a href="https://x.com/sudzdpn">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
+## 🚀 What I Do
+- **Industrial Data Science & MLOps:** From rapid prototyping to delivery-ready pipelines
+- **Physical Computing Solutions:** South African education (see [saml.co.za](https://saml.co.za))
+- **Cloud-AI Integration:** AWS, Azure, Google, open source
 
-## 🎯 Mission
+---
 
-**Eliminating technical debt, not just reducing it.** Based at TMG Makerspace Africa, we're revolutionizing how data science experiments transform into production systems. Our solutions are battle-tested in South Africa's challenging context, ensuring resilience in any environment worldwide.
+## 🏆 Highlights
+- **Member:** [TMG Makerspace Africa](https://tmgmakerspace.africa)
+- **Key Projects:** [SAM-LMS Curriculum](https://saml.co.za), [mini-omni](https://github.com/gpt-omni/mini-omni), resource optimisation tools
+- **Advocate for local innovation** – Building tech for real SA challenges
 
-## 💥 What Sets Us Apart
+---
 
-- ⚡ **Zero-Compromise MLOps**: Production-ready from day one
-- ⚡ **Ruthless Efficiency**: 60% faster experiment-to-production time
-- ⚡ **Built for Africa**: Engineered for our unique infrastructure challenges
-- ⚡ **Scale-Ready**: Seamless scaling from prototype to continental deployment
+## 🛠️ Tech Stack
+**Python, Node.js, FAST API, MLflow, Docker, AWS, Azure, GCP, HuggingFace, Kubernetes, OpenAI, Data Science**
 
-## 🚀 Flagship Solutions
+---
 
-| Solution | Description |
-|----------|-------------|
-| ⚡ **4o Experiment Manager** | The definitive ML experiment tracker for enterprise deployment |
-| 🛡️ **Technical Debt Shield** | Proactive technical debt prevention system |
-| 🔥 **Production Pipeline Builder** | Transform notebooks to production in minutes, not months |
-| 📊 **Analytics Command Center** | Complete visibility across ML operations |
-| ⚡ **Resource Optimizer** | Maximize performance while minimizing resource usage |
-| 🧩 **Project IDX** | Integrated development experience for seamless collaboration |
-| 🖼️ **pix2tex** | Vision Transformer converting equation images to LaTeX code |
+## ✉️ Connect
+- [sudhir@saml.co.za](mailto:sudhir@saml.co.za) • [LinkedIn](https://www.linkedin.com/in/sudhirdpn) • [X: @sudzdpn](https://x.com/sudzdpn)
 
-## 🛠️ Core Technology Stack
+---
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **MLOps** | Kedro • MLflow • Kubeflow • TensorFlow Extended |
-| **Cloud Native** | AWS IoT Greengrass • Azure Arc • Google Anthos |
-| **Data Fabric** | Delta Lake • Apache Iceberg • AWS Glue |
-| **Security** | HashiCorp Vault • AWS IAM • Azure Sentinel |
+## 📚 Impact Areas
+- **Education:** Bridging digital divides through open-source curriculum and physical computing
+- **AI for Africa:** Technical debt, resource efficiency, community-scale deployment
+- **POPIA-Ready Data Engineering**
 
-## 📈 Service Distribution
+---
 
-```mermaid
-flowchart TB
-    subgraph SAML["SAML: 10X NOT 10%"]
-        direction TB
-        
-        A([Enterprise SQL Solutions]):::enterprise --> B([Database Performance]):::performance
-        A --> C([Custom Implementation]):::custom
-        A --> D([Legacy Migration]):::legacy
-        
-        E([Data Infrastructure]):::infrastructure --> F([Scalable Architecture]):::scalable
-        E --> G([High Availability]):::availability
-        E --> H([Distributed Systems]):::distributed
-        
-        I([Security & Compliance]):::security --> J([Data Protection]):::protection
-        I --> K([Access Control]):::access
-        I --> L([Audit Systems]):::audit
-        
-        B & C & D & F & G & H & J & K & L --> M([10X Results]):::results
-    end
-    
-    subgraph Industries
-        N([Financial Services]):::industries
-        O([Healthcare]):::industries
-        P([Telecoms]):::industries
-        Q([Retail]):::industries
-        R([Government]):::industries
-    end
-    
-    M --> Industries
-    
-    subgraph Technologies
-        direction LR
-        S([PostgreSQL]):::tech & T([MySQL]):::tech & U([SQL Server]):::tech & V([Oracle]):::tech & W([MongoDB]):::tech
-        X([AWS]):::cloud & Y([Azure]):::cloud & Z([GCP]):::cloud
-        AA([Python]):::languages & AB([Java]):::languages & AC([Go]):::languages & AD([C#]):::languages
-        AE([Docker]):::devops & AF([Kubernetes]):::devops & AG([Terraform]):::devops
-    end
-    
-    M --> Technologies
-    
-    classDef enterprise fill:#007ACC,stroke:#333,stroke-width:2px,color:#fff
-    classDef performance fill:#28A745,stroke:#333,stroke-width:2px,color:#fff
-    classDef custom fill:#FFC107,stroke:#333,stroke-width:2px,color:#fff
-    classDef legacy fill:#DC3545,stroke:#333,stroke-width:2px,color:#fff
-    classDef infrastructure fill:#6610F2,stroke:#333,stroke-width:2px,color:#fff
-    classDef scalable fill:#17A2B8,stroke:#333,stroke-width:2px,color:#fff
-    classDef availability fill:#20C997,stroke:#333,stroke-width:2px,color:#fff
-    classDef distributed fill:#E83E8C,stroke:#333,stroke-width:2px,color:#fff
-    classDef security fill:#343A40,stroke:#333,stroke-width:2px,color:#fff
-    classDef protection fill:#6C757D,stroke:#333,stroke-width:2px,color:#fff
-    classDef access fill:#007BFF,stroke:#333,stroke-width:2px,color:#fff
-    classDef audit fill:#FFC107,stroke:#333,stroke-width:2px,color:#fff
-    classDef results fill:#FF5722,stroke:#333,stroke-width:3px,color:#fff
-    classDef industries fill:#F8F9FA,stroke:#333,stroke-width:2px,color:#000
-    classDef tech fill:#6F42C1,stroke:#333,stroke-width:2px,color:#fff
-    classDef cloud fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff
-    classDef languages fill:#009688,stroke:#333,stroke-width:2px,color:#fff
-    classDef devops fill:#795548,stroke:#333,stroke-width:2px,color:#fff
-```
+> **Let's collaborate to build real-world solutions for Africa — not just prototypes.**
+---
 
-## 🌍 Impact Areas
-
-- 🏢 **Database Management Systems**: Enterprise-grade DBMS with POPIA compliance
-- 🌍 **MySQL Services**: Optimized MySQL solutions for African businesses
-- 🎯 **PostgreSQL Services**: Advanced PostgreSQL implementations with high availability
-- 🤖 **AI Integration**: Custom AI solutions for unique African challenges
-
-## 🛠️ Technology Expertise
-
-<div align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://kedro.readthedocs.io/"><img src="https://img.shields.io/badge/-Kedro-004D40?style=for-the-badge&logo=kedro&logoColor=white" /></a>
-  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <br>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/"><img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-  <a href="https://huggingface.co/sudzdpn"><img src="https://img.shields.io/badge/-Hugging_Face-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-  <br>
-  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-  <a href="https://www.openai.com/"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-</div>
-
-## 🚀 Live Demos
-
-<div align="center">
-  <a href="https://github.com/gpt-omni/mini-omni">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gpt-omni&repo=mini-omni&theme=merko&border_color=7F3FBF" width="400">
-  </a>
-  <a href="https://demo.kedro.org">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kedro-org&repo=kedro&theme=merko&border_color=00A98F" width="400">
-  </a>
-</div>
-
-## 🏆 Certifications & Achievements
-
-<details>
-  <summary><strong>View Certifications & Achievements</strong></summary>
-  
-  - 🎓 [Microsoft Azure AI Engineer Associate](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/)
-  - 🎓 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
-  - 🎓 [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
-  - 🏆 [Red Bull Basement National Finalist 🇿🇦](https://www.redbull.com/za-en/events/red-bull-basement)
-  - ⚡ [Microsoft Founders Hub - Level 3](https://www.microsoft.com/startups/founders-hub)
-  - 🎓 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
-  - 🎓 [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
-  - 🎓 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/)
-  - 🚗 [AWS DeepRacer Championship Participant](https://aws.amazon.com/deepracer/)
-  - ☁️ [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-  - 🎓 [Microsoft Certified Solutions Developer (MCSD): SQL Server 2016](https://www.microsoft.com/en-us/learning/mcsd-sql-2016-certification.aspx)
-</details>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudz&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br>
-  🏢 <a href="https://g.co/kgs/CKQ5KiE">Transwerke, Braamfontein, Johannesburg, 2017</a>
-  <br>
-  🚀 Innovation Hub: <a href="https://tmgmakerspace.africa">tmgmakerspace.africa</a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Sudz&style=flat-square&color=blue" alt="Profile views"/>
-  <br><br>
-  <a href="https://g.dev/sudz">
-    <img src="https://img.shields.io/badge/Google_Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <em></em>
-</div>
+[TMG Makerspace Africa](https://tmgmakerspace.africa) | [SAM-LMS](https://saml.co.za)
