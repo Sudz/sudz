@@ -7,7 +7,7 @@
 
 - **Industrial Data Science & MLOps:** From rapid prototyping to delivery-ready pipelines
 - **Physical Computing Solutions:** South African education (see [saml.co.za](https://saml.co.za))
-- **Cloud-AI Integration:** AWS, Azure, Google, open source
+- **Cloud-AI Integration:** AWS, Azure, Google and Red Hat
 
 ---
 
