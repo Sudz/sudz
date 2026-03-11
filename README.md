@@ -13,7 +13,7 @@
 
 ## 🏆 Highlights
 
-- **Member:** [TMG Makerspace Africa](https://tmgmakerspace.africa)
+- **Member:** [TMG Makerspace Africa](https://tshimologong.joburg/incubation-acceleration/makerspace/)
 - **Key Projects:** [SAM-LMS Curriculum](https://saml.co.za), [mini-omni](https://github.com/gpt-omni/mini-omni), resource optimisation tools
 - **Advocate for local innovation** – Building tech for real SA challenges
 
