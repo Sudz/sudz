@@ -1,6 +1,6 @@
 # Hi, I'm Sudhir 
 
-Building resilient, production-grade AI and data science solutions for Africa and beyond.
+Building resilient, production-grade AI and data science solutions for Africa.
 
 ## What I Work On
 
@@ -39,4 +39,4 @@ Python, Node.js, FastAPI, MLflow, Docker, AWS, Azure, GCP, HuggingFace, Kubernet
 
 ---
 
-*Building tech for real SA challenges 🇿🇦*
+
