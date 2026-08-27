@@ -16,7 +16,7 @@ I work across applied AI, backend systems, data engineering, and MLOps. My focus
 | Project | What I’m building or contributing to | Stack | Evidence |
 |---|---|---|---|
 | [SAM LMS](https://github.com/Sudz/sam-lms) | A learning platform designed around African education workflows, with offline-first curriculum, local integrations, authentication, database design, CI/CD, and security documentation. | TypeScript, React, Node.js, PostgreSQL, Supabase | 96 commits, public roadmap, release and deployment configuration |
-| [Mini-Omni](https://github.com/gpt-omni/mini-omni) | Open-source multimodal AI work exploring real-time speech-to-speech interaction and practical model interfaces. | Python, PyTorch, Streamlit, Gradio | 3.6k stars, 312 forks, technical report and interactive demos |
+| [Mini-Omni](https://github.com/gpt-omni/mini-omni) | Contributed through authored pull requests, including [Create SECURITY.md](https://github.com/gpt-omni/mini-omni/pull/138) and [PR #18](https://github.com/gpt-omni/mini-omni/pull/18), while learning from the project’s real-time multimodal AI work. | Python, PyTorch, Streamlit, Gradio | 3.6k stars, 312 forks, technical report and interactive demos |
 | [PrettyMaps](https://github.com/Sudz/prettymaps) | Geospatial visualisation for education and community mapping, including African city contexts. | Python, matplotlib, osmnx, Jupyter | Reproducible notebooks and visual outputs |
 
 ## Currently looking for
